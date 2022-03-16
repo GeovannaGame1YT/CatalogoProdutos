@@ -4,8 +4,8 @@
 esta é a tela principal onde pode visualizar os produtos cadastrados.
 <br>efetuar o login do administrador para adicionar mais produtos.<br>
 <br>![image](https://user-images.githubusercontent.com/90795502/158079963-2091f354-d33a-4769-8aa1-77e2e603711c.png)<br>
-<br>quando aperta no texto Realizar login você vai para
-<br>a tela de login do adimistrador.
+<br>Quando Pressionado o texto Realizar login você vai para o login do ADM
+## Tela de login do adimistrador.
 
 ![image](https://user-images.githubusercontent.com/90795502/158080249-07889346-2541-47ff-a501-5cf5b1beaece.png)
 
