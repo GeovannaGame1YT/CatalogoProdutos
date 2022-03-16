@@ -1,5 +1,5 @@
 # Catalogo Produtos
-O Projeto catalo pode armazenar produtos com a categoria e nome e preço dele
+## O Projeto catalogo pode armazenar produtos com a categoria e nome e preço dele
 
 esta é a tela principal onde pode visualizar os produtos cadastrados.
 <br>efetuar o login do administrador para adicionar mais produtos.<br>
